@@ -1,4 +1,4 @@
 # AapnaAI
-A Website Specialized in  AI and its related Tech.
-Author - Mukul Kalsait.
-Owner - Sumit Parale.
+A Website Specialized in  AI and its related Tech.<br>
+Author - Mukul Kalsait.<br>
+Owner - Sumit Parale.<br>
